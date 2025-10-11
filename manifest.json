@@ -5,16 +5,14 @@
       "version": "1.2.0",
       "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.0/FileCompanion-1.2.0-windows.exe",
       "checksum": "sha256:9c230d516e72e58869bf06febb225e0c230654dac3a5eccd785f7de038074598",
-      "release_notes": "Modified FileCompanion to include file-uploading functionality
-    - Added new behavior: 'write_file'. The server can create a new file in an allowed directory (cannot modify existing ones)",
+      "release_notes": "Modified FileCompanion to include file-uploading functionality - Added new behavior: 'write_file'. The server can create a new file in an allowed directory (cannot modify existing ones)",
       "required": false
     },
     "macos": {
       "version": "1.2.0",
       "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.0/FileCompanion-1.2.0-macos.dmg",
       "checksum": "sha256:2e1c9174ef77be6a4c8db2f54450da9e5350e7dd602763844997ba7abc6bc18a",
-      "release_notes": "Modified FileCompanion to include file-uploading functionality
-    - Added new behavior: 'write_file'. The server can create a new file in an allowed directory (cannot modify existing ones)",
+      "release_notes": "Modified FileCompanion to include file-uploading functionality - Added new behavior: 'write_file'. The server can create a new file in an allowed directory (cannot modify existing ones)",
       "required": false
     }
   }
