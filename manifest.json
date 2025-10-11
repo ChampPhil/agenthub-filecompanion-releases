@@ -1,18 +1,20 @@
 {
-  "latest_version": "1.1.3",
+  "latest_version": "1.2.0",
   "platforms": {
     "windows": {
-      "version": "1.1.3",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.1.3/FileCompanion-1.1.3-windows.exe",
-      "checksum": "sha256:ba04c0eb7f5b3e67828b44e953d1f8132723970ed732efb09c9c78af9e1943e8",
-      "release_notes": "Auto-generated draft release from push event",
+      "version": "1.2.0",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.0/FileCompanion-1.2.0-windows.exe",
+      "checksum": "sha256:9c230d516e72e58869bf06febb225e0c230654dac3a5eccd785f7de038074598",
+      "release_notes": "Modified FileCompanion to include file-uploading functionality
+    - Added new behavior: 'write_file'. The server can create a new file in an allowed directory (cannot modify existing ones)",
       "required": false
     },
     "macos": {
-      "version": "1.1.3",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.1.3/FileCompanion-1.1.3-macos.dmg",
-      "checksum": "sha256:54576d977cb1bd856e0e925042875fd7cbbf5d8b2123c5edbb0a835ae8c3e465",
-      "release_notes": "Auto-generated draft release from push event",
+      "version": "1.2.0",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.0/FileCompanion-1.2.0-macos.dmg",
+      "checksum": "sha256:2e1c9174ef77be6a4c8db2f54450da9e5350e7dd602763844997ba7abc6bc18a",
+      "release_notes": "Modified FileCompanion to include file-uploading functionality
+    - Added new behavior: 'write_file'. The server can create a new file in an allowed directory (cannot modify existing ones)",
       "required": false
     }
   }
