@@ -1,17 +1,17 @@
 {
-  "latest_version": "1.2.4",
+  "latest_version": "1.2.5",
   "platforms": {
     "windows": {
-      "version": "1.2.4",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.4/FileCompanion-1.2.4-windows.exe",
-      "checksum": "sha256:8660730cea8c2e6134f50fed622c499c4fe656e0765301c80e77bd1088f3ad1b",
+      "version": "1.2.5",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.5/FileCompanion-1.2.5-windows.exe",
+      "checksum": "sha256:f191f05732c8230e089f00ca21cdda3db00693da8126f033a32fc8433016adba",
       "release_notes": "Auto-generated draft release from push event",
       "required": false
     },
     "macos": {
-      "version": "1.2.4",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.4/FileCompanion-1.2.4-macos.dmg",
-      "checksum": "sha256:44b03e2ab640181e09b03504172b4c94e581a4f0be2606ee44d50425e3cf8bc1",
+      "version": "1.2.5",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.2.5/FileCompanion-1.2.5-macos.dmg",
+      "checksum": "sha256:a547ddaf4167a5fe6d1a4589098d4e089d9fb9d5366e46c40be4e7671a9082a0",
       "release_notes": "Auto-generated draft release from push event",
       "required": false
     }
