@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.3.0",
+  "latest_version": "draft-24-1",
   "platforms": {
     "windows": {
-      "version": "1.3.0",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.0/FileCompanion-1.3.0-windows.exe",
-      "checksum": "sha256:a06a95ad27bfd5c63264f613a058ed47fdb8faaa6b1d4d46e9c5dd56bbd2545d",
-      "release_notes": "Auto-generated draft release from push event",
+      "version": "draft-24-1",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/draft-24-1/FileCompanion-draft-24-1-windows.zip",
+      "checksum": "sha256:15022b7a21a1f563c9fff9923e6b778d6e4c511a70fd61b93bb4801af31fc6ec",
+      "release_notes": "Modified Github executables to be packaged in .zip",
       "required": false
     },
     "macos": {
-      "version": "1.3.0",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.0/FileCompanion-1.3.0-macos.dmg",
-      "checksum": "sha256:cc4c820f2e40efe6a2f0187775e6cd003f68f98863de3ab7d7191a4bc1e0541f",
-      "release_notes": "Auto-generated draft release from push event",
+      "version": "draft-24-1",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/draft-24-1/FileCompanion-draft-24-1-macos.zip",
+      "checksum": "sha256:e49cdb8e8d012ead327f8bc463ec16a3f3e943b8c0cc82b0cbd9e2e2655e0808",
+      "release_notes": "Modified Github executables to be packaged in .zip",
       "required": false
     }
   }
