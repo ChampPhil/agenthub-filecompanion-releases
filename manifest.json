@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.3.3",
+  "latest_version": "1.4.0",
   "platforms": {
     "windows": {
-      "version": "1.3.3",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.3/FileCompanion-1.3.3-windows.zip",
-      "checksum": "sha256:4f28b43c2212a30a0e8aca43e3bd2458c3f1c753170b7cd0ce8f68b2bbaf2f2a",
-      "release_notes": "Modified executables to use one-dir instead of one-file",
+      "version": "1.4.0",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.4.0/FileCompanion-1.4.0-windows.zip",
+      "checksum": "sha256:e6771c77a8af364e3866807620ace355fd2818fe2198952ac5b0b397519bbbae",
+      "release_notes": "Modified each executable to reference its version in src/__version__.py",
       "required": false
     },
     "macos": {
-      "version": "1.3.3",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.3/FileCompanion-1.3.3-macos.zip",
-      "checksum": "sha256:7dc2e9ecd1b0993971259db7860f92111ca1dd89f36c51a51a5616170599ff2c",
-      "release_notes": "Modified executables to use one-dir instead of one-file",
+      "version": "1.4.0",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.4.0/FileCompanion-1.4.0-macos.zip",
+      "checksum": "sha256:0b1a9b530aef518d42e472ae37724bb87ff29ec0445b1886311c7bd1ca5036a0",
+      "release_notes": "Modified each executable to reference its version in src/__version__.py",
       "required": false
     }
   }
