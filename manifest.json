@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.3.1",
+  "latest_version": "1.3.2",
   "platforms": {
     "windows": {
-      "version": "1.3.1",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.1/FileCompanion-1.3.1-windows.zip",
-      "checksum": "sha256:f679eb3657125c47e76ccb020cff113e815cc96121fb781dab4e8c331992fb9e",
-      "release_notes": "Fixed bug in tag nomeclature",
+      "version": "1.3.2",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.2/FileCompanion-1.3.2-windows.zip",
+      "checksum": "sha256:a77c29a9853d2f7ef9b6e3717f998fa9ead1cffaf8a3119871d888a927ea6191",
+      "release_notes": "Modified update_manager.py to let FileCompanion install directly after execution",
       "required": false
     },
     "macos": {
-      "version": "1.3.1",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.1/FileCompanion-1.3.1-macos.zip",
-      "checksum": "sha256:06f3e63e199baded5c160eefc9a13751cb00153e03fd7cfc0e648b149a73282c",
-      "release_notes": "Fixed bug in tag nomeclature",
+      "version": "1.3.2",
+      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.3.2/FileCompanion-1.3.2-macos.zip",
+      "checksum": "sha256:5ac1e074d5a63659e874be570739da651fc55e5ea7264dd64b046a241dcbfde7",
+      "release_notes": "Modified update_manager.py to let FileCompanion install directly after execution",
       "required": false
     }
   }
