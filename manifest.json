@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.5.0",
+  "latest_version": "1.5.1",
   "platforms": {
     "windows": {
-      "version": "1.5.0",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-windows.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-windows.exe",
-      "checksum": "sha256:61f09f5e79989bdc4f586b2feebbbd4b862809059242d870ebfcf2783dc1d739",
-      "release_notes": "Modified the update logic to use installers files (.exe and .dmg files designed to be ran by the user) and update archive files (.zips designed to be used by auto-updating logic)",
+      "version": "1.5.1",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-windows.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-windows.exe",
+      "checksum": "sha256:c5373962bc5e10eefab66fa68b40b046109c10d4ca631be4d7e4150896bb11f9",
+      "release_notes": "Made some slight edits to make the MainWindow more compact",
       "required": false
     },
     "macos": {
-      "version": "1.5.0",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-macos.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-macos.dmg",
-      "checksum": "sha256:3d1bf8451f8789bad6160306830fce97a0162a80b3d36aac687fb2d9131cc362",
-      "release_notes": "Modified the update logic to use installers files (.exe and .dmg files designed to be ran by the user) and update archive files (.zips designed to be used by auto-updating logic)",
+      "version": "1.5.1",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-macos.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-macos.dmg",
+      "checksum": "sha256:8befd38c9253d13890056461c9c3636b3065f9c4464c6b8348652b6e91989b26",
+      "release_notes": "Made some slight edits to make the MainWindow more compact",
       "required": false
     }
   }
