@@ -1,18 +1,20 @@
 {
-  "latest_version": "1.4.2",
+  "latest_version": "1.5.0",
   "platforms": {
     "windows": {
-      "version": "1.4.2",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.4.2/FileCompanion-1.4.2-windows.zip",
-      "checksum": "sha256:d7c6e6307eec2c2f8f5e5375fb8228cacaa1689f91bbe8b8b896c8cea9a4f78c",
-      "release_notes": "Correctd bug in code",
+      "version": "1.5.0",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-windows.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-windows.exe",
+      "checksum": "sha256:61f09f5e79989bdc4f586b2feebbbd4b862809059242d870ebfcf2783dc1d739",
+      "release_notes": "Modified the update logic to use installers files (.exe and .dmg files designed to be ran by the user) and update archive files (.zips designed to be used by auto-updating logic)",
       "required": false
     },
     "macos": {
-      "version": "1.4.2",
-      "download_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.4.2/FileCompanion-1.4.2-macos.zip",
-      "checksum": "sha256:9e8cea2608c59dbf99e5672b9e0c57e00528e9307f21fd7af93dc104d4b53005",
-      "release_notes": "Correctd bug in code",
+      "version": "1.5.0",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-macos.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.0/FileCompanion-1.5.0-macos.dmg",
+      "checksum": "sha256:3d1bf8451f8789bad6160306830fce97a0162a80b3d36aac687fb2d9131cc362",
+      "release_notes": "Modified the update logic to use installers files (.exe and .dmg files designed to be ran by the user) and update archive files (.zips designed to be used by auto-updating logic)",
       "required": false
     }
   }
