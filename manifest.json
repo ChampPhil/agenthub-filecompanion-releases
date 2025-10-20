@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.5.1",
+  "latest_version": "1.5.2",
   "platforms": {
     "windows": {
-      "version": "1.5.1",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-windows.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-windows.exe",
-      "checksum": "sha256:c5373962bc5e10eefab66fa68b40b046109c10d4ca631be4d7e4150896bb11f9",
-      "release_notes": "Made some slight edits to make the MainWindow more compact",
+      "version": "1.5.2",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-windows.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-windows.exe",
+      "checksum": "sha256:ebafb7ec7ccee3f9639c87dfcf3d5907fa98b7dda264938bff8e244b6aa8f396",
+      "release_notes": "Made sure that main-window would always feature prominently",
       "required": false
     },
     "macos": {
-      "version": "1.5.1",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-macos.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.1/FileCompanion-1.5.1-macos.dmg",
-      "checksum": "sha256:8befd38c9253d13890056461c9c3636b3065f9c4464c6b8348652b6e91989b26",
-      "release_notes": "Made some slight edits to make the MainWindow more compact",
+      "version": "1.5.2",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-macos.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-macos.dmg",
+      "checksum": "sha256:fffbf5e992a1020b7ccc0930c1f01b456795c719ad63f9ff8e6efce6a75f2a40",
+      "release_notes": "Made sure that main-window would always feature prominently",
       "required": false
     }
   }
