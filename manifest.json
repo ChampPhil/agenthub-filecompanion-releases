@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.5.2",
+  "latest_version": "1.5.3",
   "platforms": {
     "windows": {
-      "version": "1.5.2",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-windows.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-windows.exe",
-      "checksum": "sha256:ebafb7ec7ccee3f9639c87dfcf3d5907fa98b7dda264938bff8e244b6aa8f396",
-      "release_notes": "Made sure that main-window would always feature prominently",
+      "version": "1.5.3",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-windows.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-windows.exe",
+      "checksum": "sha256:cb5ef11004e07c20a13bcf945086e29756b50334d6a5e379b908a9361328e328",
+      "release_notes": "Ensured that new config defaults are pushed",
       "required": false
     },
     "macos": {
-      "version": "1.5.2",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-macos.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.2/FileCompanion-1.5.2-macos.dmg",
-      "checksum": "sha256:fffbf5e992a1020b7ccc0930c1f01b456795c719ad63f9ff8e6efce6a75f2a40",
-      "release_notes": "Made sure that main-window would always feature prominently",
+      "version": "1.5.3",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-macos.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-macos.dmg",
+      "checksum": "sha256:3940a3ba1a407c00461abe09b7b1c4ae4cb68861333ac2c252d8d6ad15d2970c",
+      "release_notes": "Ensured that new config defaults are pushed",
       "required": false
     }
   }
