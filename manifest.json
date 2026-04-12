@@ -1,20 +1,20 @@
 {
-  "latest_version": "1.5.3",
+  "latest_version": "1.5.4",
   "platforms": {
     "windows": {
-      "version": "1.5.3",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-windows.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-windows.exe",
-      "checksum": "sha256:cb5ef11004e07c20a13bcf945086e29756b50334d6a5e379b908a9361328e328",
-      "release_notes": "Ensured that new config defaults are pushed",
+      "version": "1.5.4",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.4/FileCompanion-1.5.4-windows.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.4/FileCompanion-1.5.4-windows.exe",
+      "checksum": "sha256:4cbaad6ee237657518fcc27c7966e8c92e2715ad409c9fc80aacb39d7f5c083e",
+      "release_notes": "Updated links to point to ejentoai.com + new public backend",
       "required": false
     },
     "macos": {
-      "version": "1.5.3",
-      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-macos.zip",
-      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.3/FileCompanion-1.5.3-macos.dmg",
-      "checksum": "sha256:3940a3ba1a407c00461abe09b7b1c4ae4cb68861333ac2c252d8d6ad15d2970c",
-      "release_notes": "Ensured that new config defaults are pushed",
+      "version": "1.5.4",
+      "zip_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.4/FileCompanion-1.5.4-macos.zip",
+      "installer_url": "https://raw.githubusercontent.com/ChampPhil/agenthub-filecompanion-releases/main/releases/1.5.4/FileCompanion-1.5.4-macos.dmg",
+      "checksum": "sha256:cfda25cb58077e882b3d85977a85e917bcf19f349fd49f2dba3e4ef07c3c8f91",
+      "release_notes": "Updated links to point to ejentoai.com + new public backend",
       "required": false
     }
   }
